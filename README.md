@@ -24,3 +24,10 @@ Project mein Brazil jaise deshon ke local hygiene customs (jaise frequent shower
 * CSS (Inline styling)
 * JavaScript (Basic Alerts)
 ![Website Screenshot](screenshot1.jpeg)
+![Website Screenshot](screenshot2.jpeg)
+![Website Screenshot](screenshot3.jpeg)
+![Website Screenshot](screenshot4.jpeg)
+![Website Screenshot](screenshot5.jpeg)
+![Website Screenshot](screenshot6.jpeg)
+![Website Screenshot](screenshot7.jpeg)
+
